@@ -1,0 +1,211 @@
+{
+  "base": "http://127.0.0.1:8882",
+  "results": [
+    {
+      "name": "route /login",
+      "status": "passed"
+    },
+    {
+      "name": "login demo",
+      "status": "passed"
+    },
+    {
+      "name": "demo guide",
+      "status": "passed"
+    },
+    {
+      "name": "route /catalog/civil",
+      "status": "passed"
+    },
+    {
+      "name": "qualification matching",
+      "status": "passed"
+    },
+    {
+      "name": "application submission",
+      "status": "passed"
+    },
+    {
+      "name": "route /applications",
+      "status": "passed"
+    },
+    {
+      "name": "application update and resubmit",
+      "status": "passed"
+    },
+    {
+      "name": "application plan",
+      "status": "passed"
+    },
+    {
+      "name": "route /services",
+      "status": "passed"
+    },
+    {
+      "name": "service request",
+      "status": "passed"
+    },
+    {
+      "name": "route /profile",
+      "status": "passed"
+    },
+    {
+      "name": "profile persistence",
+      "status": "passed"
+    },
+    {
+      "name": "route /recommendations",
+      "status": "passed"
+    },
+    {
+      "name": "route /practice",
+      "status": "passed"
+    },
+    {
+      "name": "generate paper",
+      "status": "passed"
+    },
+    {
+      "name": "exam resume",
+      "status": "passed"
+    },
+    {
+      "name": "exam submit",
+      "status": "passed"
+    },
+    {
+      "name": "route /scores",
+      "status": "passed"
+    },
+    {
+      "name": "route /notifications",
+      "status": "passed"
+    },
+    {
+      "name": "route /favorites",
+      "status": "passed"
+    },
+    {
+      "name": "route /notices",
+      "status": "passed"
+    },
+    {
+      "name": "route /catalog/institution",
+      "status": "passed"
+    },
+    {
+      "name": "route /catalog/graduate",
+      "status": "passed"
+    },
+    {
+      "name": "login admin",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/applications",
+      "status": "passed"
+    },
+    {
+      "name": "admin application review",
+      "status": "passed"
+    },
+    {
+      "name": "admin application export",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/service-requests",
+      "status": "passed"
+    },
+    {
+      "name": "admin service reply",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/users",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/opportunities",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/notices",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/questions",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/papers",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/notifications",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/services",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/historical-stats",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/recommendation-rules",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/requirement-rules",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/settings",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/operations",
+      "status": "passed"
+    },
+    {
+      "name": "backup creation",
+      "status": "passed"
+    },
+    {
+      "name": "route /",
+      "status": "passed"
+    },
+    {
+      "name": "route /services",
+      "status": "passed"
+    },
+    {
+      "name": "route /catalog/civil",
+      "status": "passed"
+    },
+    {
+      "name": "route /admin/applications",
+      "status": "passed"
+    },
+    {
+      "name": "mobile navigation",
+      "status": "passed"
+    },
+    {
+      "name": "reduced motion",
+      "status": "passed"
+    },
+    {
+      "name": "no external requests or runtime errors",
+      "status": "passed"
+    }
+  ],
+  "errors": [],
+  "external": []
+}

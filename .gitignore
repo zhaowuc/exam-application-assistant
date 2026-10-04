@@ -1,0 +1,12 @@
+# Packaged runtimes, validation artifacts and local databases
+/ExamAssistant_Offline_v2/
+/qa/
+/*.zip
+/*.sqlite3
+/SQLite数据.txt
+/工程源码_按模块.txt
+/交付文件校验.json
+.env
+.env.*
+!.env.example
+.secret

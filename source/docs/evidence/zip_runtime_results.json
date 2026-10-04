@@ -1,0 +1,33 @@
+{
+  "executable": "D:\\danzi\\lixianhang\\qa\\zip-customer-cold\\ExamAssistant_Offline_v2\\ExamAssistant.exe",
+  "results": [
+    {
+      "name": "cold-start executable and SQLite migration",
+      "status": "passed"
+    },
+    {
+      "name": "original seed retained, missing services initialized",
+      "status": "passed"
+    },
+    {
+      "name": "restart preserves user data",
+      "status": "passed"
+    },
+    {
+      "name": "valid backup download and database restore",
+      "status": "passed"
+    },
+    {
+      "name": "restore invalidates old login sessions",
+      "status": "passed"
+    },
+    {
+      "name": "restored record matches backup snapshot",
+      "status": "passed"
+    },
+    {
+      "name": "offline frontend served by executable",
+      "status": "passed"
+    }
+  ]
+}
